@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "ModServer",
+      "name" : "ModServer",
+      "version" : "2022-06-22-21-29-25",
+      "location" : "modserver.json",
+      "priority" : 0
+    }
+  ]
+}
